@@ -19,9 +19,9 @@ El proyecto incluye características como:
 ## Repositorio en GitHub 🐙
 
 Encuentra el código fuente del proyecto aquí:  
-[GitHub Repository](https://github.com/tu-usuario/tu-repositorio) 🌐
+[GitHub Repository]([https://github.com/tu-usuario/tu-repositorio](https://github.com/Juniorelmusico/Aplicaci-n-Ejercicio-MVC.git)) 🌐
 
 ## Página deployada 🌍
 
 Visita la aplicación en producción:  
-[Deploy en Railway](https://web-production-17d9.up.railway.app) 🚀
+[Deploy en Railway]([https://web-production-17d9.up.railway.app](https://web-production-67d3.up.railway.app/)) 🚀
