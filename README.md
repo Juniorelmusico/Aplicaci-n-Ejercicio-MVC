@@ -16,6 +16,9 @@ El proyecto incluye características como:
 - [React Documentation](https://reactjs.org/docs/getting-started.html) ⚛️
 - [Guía de Tailwind CSS](https://tailwindcss.com/docs) 🎨
 
+## Video Intuitivo🎥
+  (https://youtu.be/2ZPWAy-igmA)
+
 ## Repositorio en GitHub 🐙
 
 Encuentra el código fuente del proyecto aquí:  
